@@ -32,7 +32,7 @@
 
 ---
 
-[![Kocal's github stats](https://github-readme-stats.vercel.app/api?username=ruzlicali16&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kocal's github stats](https://github-readme-stats.vercel.app/api?username=ruzlicali16&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzlicali16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" title="vuejs" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" width="32" height="32"/>
