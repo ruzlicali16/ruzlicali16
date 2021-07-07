@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey there 👋
 
 #### 👷 My recent pull requests
 
@@ -18,17 +18,13 @@
 - ![](./assets/pr-merged.svg) [Setup localbase service](https://github.com/MSU-Students/peganad-app-new/pull/56) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
 - ![](./assets/pr-merged.svg) [Some changes](https://github.com/MSU-Students/peganad-app-new/pull/55) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (2 days ago)
 
-#### 📜 My recent blog posts
+#### 💬 Feedback
 
-- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (2 months ago)
-- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (2 months ago)
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (1 year ago)
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (2 years ago)
+Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/HugoAlliaume
-- Blog: https://hugo.alliau.me
+- LinkedIn: https://linkedin.com/in/ruzlidev/
 
 ---
 

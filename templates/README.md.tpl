@@ -1,14 +1,13 @@
-### Hey 👋
+### Hey there 👋
 
 #### 👷 My recent pull requests
 {{range recentPullRequests 15}}
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://hugo.alliau.me/rss.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+#### 💬 Feedback
+
+Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
