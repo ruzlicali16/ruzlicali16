@@ -1,25 +1,5 @@
 ### Hey there 👋
 
-#### 👷 My recent pull requests
-
-- ![](./assets/pr-merged.svg) [delete files](https://github.com/MSU-Students/SMS-Server/pull/5) on [MSU-Students/SMS-Server](https://github.com/MSU-Students/SMS-Server) (1 day ago)
-- ![](./assets/pr-merged.svg) [Update pom xml](https://github.com/MSU-Students/SMS-Server/pull/4) on [MSU-Students/SMS-Server](https://github.com/MSU-Students/SMS-Server) (1 day ago)
-- ![](./assets/pr-merged.svg) [Update app prop](https://github.com/MSU-Students/SMS-Server/pull/3) on [MSU-Students/SMS-Server](https://github.com/MSU-Students/SMS-Server) (1 day ago)
-- ![](./assets/pr-merged.svg) [Officer entity](https://github.com/MSU-Students/SMS-Server/pull/2) on [MSU-Students/SMS-Server](https://github.com/MSU-Students/SMS-Server) (1 day ago)
-- ![](./assets/pr-merged.svg) [Dance interface](https://github.com/MSU-Students/MOSSEM/pull/17) on [MSU-Students/MOSSEM](https://github.com/MSU-Students/MOSSEM) (1 day ago)
-- ![](./assets/pr-merged.svg) [Dance entity](https://github.com/MSU-Students/MOSSEM/pull/16) on [MSU-Students/MOSSEM](https://github.com/MSU-Students/MOSSEM) (1 day ago)
-- ![](./assets/pr-merged.svg) [Dance dto](https://github.com/MSU-Students/MOSSEM/pull/15) on [MSU-Students/MOSSEM](https://github.com/MSU-Students/MOSSEM) (1 day ago)
-- ![](./assets/pr-merged.svg) [Firestore service](https://github.com/MSU-Students/MOSSEM/pull/14) on [MSU-Students/MOSSEM](https://github.com/MSU-Students/MOSSEM) (1 day ago)
-- ![](./assets/pr-merged.svg) [new changes](https://github.com/MSU-Students/peganad-app-new/pull/61) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [changes in firestore service](https://github.com/MSU-Students/peganad-app-new/pull/60) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [Changes game card](https://github.com/MSU-Students/peganad-app-new/pull/59) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [Changes content service](https://github.com/MSU-Students/peganad-app-new/pull/58) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [Changes action in vuex](https://github.com/MSU-Students/peganad-app-new/pull/57) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [Setup localbase service](https://github.com/MSU-Students/peganad-app-new/pull/56) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (1 day ago)
-- ![](./assets/pr-merged.svg) [Some changes](https://github.com/MSU-Students/peganad-app-new/pull/55) on [MSU-Students/peganad-app-new](https://github.com/MSU-Students/peganad-app-new) (2 days ago)
-
-#### 💬 Feedback
-
 Say Hello, I don't bite!
 
 #### 📫 How to reach me
